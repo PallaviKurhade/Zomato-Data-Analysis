@@ -57,5 +57,7 @@ Restaurants with online ordering tend to have slightly better ratings.
 Some locations have higher restaurant density.
 Expensive restaurants do not always have higher ratings.
 Certain restaurant types receive more customer votes.
+
 🔹 7️⃣ Conclusion
+
 This project helped understand how data analysis can support business decision-making. It improved skills in data cleaning, visualization, and extracting actionable insights from real-world datasets.
